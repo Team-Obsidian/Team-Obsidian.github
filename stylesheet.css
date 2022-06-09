@@ -30,15 +30,16 @@ p {
   font-size: 32px;
 }
 .placemat {
-  width= 75%;
+  width: 75%;
   background-color: grey;
-  opacity: 50%;
-  margin: auto;
+  opacity: 80%;
+  margin: 30px;
   padding: 10px;
+  display: inline-block;
 }
 
 .reno {
-  font-family: 'renogare';
+  font-family: renogare;
 }
 
 .apple {
