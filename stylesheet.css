@@ -40,8 +40,12 @@ p {
   margin: auto;
   padding: auto;
   display: inline-block;
-  align-self: center;
+  border-color: #2F4C39;
+  display: flex;
+  align-items: center;
+  align-content: center;
 }
+
 
 .reno {
   font-family: renogare;
