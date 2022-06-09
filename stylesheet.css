@@ -11,18 +11,26 @@
 }
 
 @font-face {
-    font-family: 'renogare_softregular';
-    src: url('renogare.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
+  font-family: 'renogare';
+  src: url('renogare.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
+<<<<<<< HEAD
     font-family: 'omori_gameregular';
     src: url('omori_game-webfont.woff2') format('woff2'),
          url('omori_game-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     
+=======
+  font-family: 'omori';
+  src: url('omori_game.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+>>>>>>> parent of bbb3a73 (webfonts are annoying)
 }
