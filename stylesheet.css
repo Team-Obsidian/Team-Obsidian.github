@@ -8,4 +8,16 @@
     font-weight: normal;
     font-style: normal;
     font-display: swap;
+
+    font-family: 'renogare';
+    src: url('renogare.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+
+    font-family: 'omori';
+    src: url('omori_game.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
