@@ -47,6 +47,7 @@ ul {
 }
 
 li {
+  float: left;
   border-right: 1px solid #bbb;
 }
 
@@ -62,6 +63,20 @@ li a:hover {
   background-color: #111;
 }
 
+.navbar {
+  width: 75%;
+  background-color: #102A43;
+  opacity: 80%;
+  margin-left: 15%;
+  margin-right: 5%;
+  padding: auto;
+  display: inline-block;
+  border-color: #2F4C39;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-wrap: wrap;
+}
 
 
 .reno {
