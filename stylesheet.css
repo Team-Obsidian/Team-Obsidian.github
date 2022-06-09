@@ -17,3 +17,42 @@
   font-style: normal;
   font-display: swap;
 }
+
+body {
+    background-image: url("lowquality_otherworld.webp");
+    background-color: #6495ED;
+}
+
+h1, h2 {
+  text-align: center;
+  font-size: 60px;
+}
+
+p {
+  text-align: center;
+  font-size: 32px;
+}
+.placemat {
+  width= 75%;
+  background-color: grey;
+  opacity: 50%;
+  margin: auto;
+  padding: 10px;
+}
+
+.reno {
+  font-family: renogare;
+}
+
+.apple {
+  font-family: Apple Kid;
+}
+
+
+.black {
+  color: black;
+}
+
+.white {
+  color: white;
+}
