@@ -30,12 +30,13 @@ p {
   font-size: 32px;
 }
 .placemat {
-  width: 75%;
-  background-color: grey;
+  width: 50%;
+  background-color: #102A43;
   opacity: 80%;
   margin: 30px;
   padding: 10px;
   display: inline-block;
+  align-self: center;
 }
 
 .reno {
