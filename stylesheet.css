@@ -41,13 +41,12 @@ ul {
   overflow: hidden;
   position: fixed;
   top: 0;
-  width: 90%;
+  width: 100%;
   background-color: #2F4C39;
   justify-content: space-around;
 }
 
 li {
-  float: left;
   border-right: 1px solid #bbb;
 }
 
@@ -63,18 +62,6 @@ li a:hover {
   background-color: #111;
 }
 
-.navbar {
-  width: 90%;
-  background-color: #102A43;
-  opacity: 80%;
-  margin: auto;
-  padding: auto;
-  display: inline-block;
-  border-color: #2F4C39;
-  display: flex;
-  align-items: center;
-  align-content: center;
-}
 
 
 .reno {
