@@ -20,8 +20,9 @@
 
 @font-face {
     font-family: 'omori_gameregular';
-    src: url('OMORI_GAME.ttf') format('truetype');
+    src: url('omori_game-webfont.woff2') format('woff2'),
+         url('omori_game-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
+    
 }
