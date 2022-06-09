@@ -33,6 +33,36 @@ p {
   text-align: center;
   font-size: 32px;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 90%;
+  background-color: #2F4C39;
+  justify-content: space-around;
+}
+
+li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
 .navbar {
   width: 90%;
   background-color: #102A43;
