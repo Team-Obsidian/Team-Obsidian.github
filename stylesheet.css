@@ -39,16 +39,14 @@ ul {
   margin: 0px;
   padding: 0px;
   overflow: hidden;
-  position: fixed;
+  position: sticky;
   top: 0;
-  width: 95%;
+  width: 100%;
   background-color: #2F4C39;
-  justify-content: space-between;
-  align-items: stretch;
 }
 
 li {
-  float: none;
+  float: left;
   border-right: 2px solid #bbb;
   padding: auto;
 }
