@@ -52,7 +52,7 @@ li {
 }
 
 li a {
-  display: block;
+  display: inline-block;
   color: white;
   text-align: center;
   padding: 20px;
@@ -71,7 +71,7 @@ li a:hover {
   padding: auto;
   display: inline-block;
   border-color: #2F4C39;
-  display: flex;
+  display: inline-block;
   align-items: center;
   align-content: center;
   flex-wrap: wrap;
