@@ -36,7 +36,7 @@ p {
 
 ul {
   list-style-type: none;
-  margin: 0;
+  margin: 20px;
   padding: 0;
   overflow: hidden;
   position: fixed;
@@ -76,6 +76,15 @@ li a:hover {
   align-items: center;
   align-content: center;
   flex-wrap: wrap;
+}
+
+.paragraph {
+  width: 75%;
+  align-self: flex-end;
+  align-content: center;
+  background-color: #2F4C39;
+  opacity: 30%;
+  cursor: url('Hand-arrow.cur'), default;
 }
 
 
