@@ -43,12 +43,12 @@ ul {
   top: 0;
   width: 100%;
   background-color: #2F4C39;
+  margin-bottom: 5px;
 }
 
 li {
   float: left;
   border-right: 2px solid #bbb;
-  margin-bottom: auto;
 }
 
 li a {
