@@ -43,12 +43,13 @@ ul {
   top: 0;
   width: 95%;
   background-color: #2F4C39;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 li {
   float: left;
   border-right: 1px solid #bbb;
+  padding: auto;
 }
 
 li a {
