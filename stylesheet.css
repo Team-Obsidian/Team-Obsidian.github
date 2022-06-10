@@ -43,12 +43,13 @@ ul {
   top: 0;
   width: 100%;
   background-color: #2F4C39;
-  margin-bottom: 5px;
+  margin-bottom: 15px;
 }
 
 li {
   float: left;
   border-right: 2px solid #bbb;
+  margin-right: 5px;
 }
 
 li a {
@@ -63,7 +64,7 @@ li a:hover {
   background-color: #111;
 }
 
-.navbar {
+/* .navbar {
   width: 80%;
   background-color: #102A43;
   opacity: 80%;
@@ -76,14 +77,15 @@ li a:hover {
   align-content: center;
   flex-wrap: wrap;
 }
-
+*/
 .paragraph {
   width: 75%;
-  align-items: flex-end;
   align-content: center;
   background-color: #2F4C39;
-  opacity: 30%;
-  cursor: url('Hand-arrow.cur'), default;
+  opacity: 50%;
+  display: inline-block;
+  cursor: url('Hand-arrow.cur'), url('Hand-arrow.cur'), default;
+  position: absolute;
 }
 
 
