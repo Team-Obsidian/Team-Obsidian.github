@@ -84,11 +84,10 @@ li a:hover {
   width: 70vw;
   float: right;
   align-content: center;
-  background-image: url("oneshot_refuge.png");
+  background: url("oneshot_refuge.png");
   background-repeat: no-repeat;
   background-color: #6495ED;
-  background-size: cover;
-  background-position: right;
+  background-size: 100vw 100vh;
 }
 
 
