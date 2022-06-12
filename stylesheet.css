@@ -119,8 +119,8 @@ li a:hover {
 }
 
 #todobutton {
-  border-top-right-radius: 20px;
-  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
   background-color: beige;
   width: 60px;
   height: 60px;
