@@ -126,9 +126,9 @@ li a:hover {
   height: 60px;
   float: right;
   margin: 0;
-  display: inline-block;
+  display: none;
   overflow: visible;
-  border: 5px solid #F8F0E3;
+  border: 5px solid #f33;
 }
 
 .slide {
@@ -139,8 +139,9 @@ li a:hover {
   text-align: center;
   transition: width .2s ease-out, height .4s ease-out;
   background-color: #F8F0E3;
+  opacity: 0;
 }
 
 #touch {position: absolute; opacity: 0; height: 0px;}
 
-#touch:checked + .slide {height: 80vh;}, {width: 45vw;}
+#touch:checked + .slide {opacity: 1; height: 80vh; width: 45vw;}
