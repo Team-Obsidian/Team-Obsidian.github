@@ -87,7 +87,8 @@ li a:hover {
   background-image: url("oneshot_refuge.png");
   background-repeat: no-repeat;
   background-color: #6495ED;
-  background-size: auto;
+  background-size: cover;
+  background-position: right;
 }
 
 
