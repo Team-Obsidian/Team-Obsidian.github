@@ -117,3 +117,16 @@ li a:hover {
 .white {
   color: white;
 }
+
+#todobutton {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: beige;
+  width: 60px;
+  height: 60px;
+  float: right;
+  margin: 0;
+  display: inline-block;
+  overflow: visible;
+  border: 5px solid brown;
+}
