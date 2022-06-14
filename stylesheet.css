@@ -88,6 +88,7 @@ li a:hover {
   background-repeat: no-repeat;
   background-color: #6495ED;
   background-size: 100vw 100vh;
+  background-attachment: fixed;
 }
 
 
