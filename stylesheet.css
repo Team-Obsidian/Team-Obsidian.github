@@ -81,14 +81,19 @@ li a:hover {
 */
 
 .content {
-  width: 70vw;
+  width: 60vw;
   float: right;
   align-content: center;
   background: url("oneshot_refuge.png");
   background-repeat: no-repeat;
   background-color: #6495ED;
-  background-size: 100vw 100vh;
+  background-size: 60vw 100vh;
   background-attachment: fixed;
+  float: right;
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 0;
 }
 
 
@@ -117,6 +122,19 @@ li a:hover {
 
 .white {
   color: white;
+}
+
+.leftpage {
+  background-image: url("background2.png");
+  background-size: 40vw 100vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  align-content: center;
+  margin-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: auto;
+  float: left;
 }
 
 /*
