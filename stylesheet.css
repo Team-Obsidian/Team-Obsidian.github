@@ -37,7 +37,7 @@ p {
 ul {
   list-style-type: none;
   overflow: hidden;
-  position: fixed;
+  position: static;
   /* top:0; */
   width: 100%;
   background-color: #2F4C39;
@@ -85,7 +85,6 @@ li a:hover {
   align-content: center;
   background: url("oneshot_refuge.png");
   background-repeat: no-repeat;
-  background-color: #6495ED;
   background-size: 60vw 100vh;
   background-attachment: fixed;
   background-position: right;
