@@ -169,7 +169,6 @@ li a:hover {
 
 nav {
   width : 300px;
-  background: #d9d9d9;
 }
 
 span {
@@ -194,4 +193,4 @@ span {
 
 #touch {position: absolute; opacity: 0; height: 0px;}
 
-#touch:checked + .slide {height: 300px;}
+#touch:checked + .slide {height: 300px;} + .span {background: #d9d9d9;}
